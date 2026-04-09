@@ -1,31 +1,44 @@
 # Hi, I'm Zhenhua Wang
 
-I build reliable software systems and ship production-minded engineering work across backend services, automation, developer tooling, and AI-assisted workflows.
+I build reliable backend systems, automation workflows, developer tooling, and integration-heavy software with a strong bias toward clear scope, clean delivery, and verifiable results.
 
-## What I do
-- Backend engineering with Python, APIs, databases, and async job flows
-- Integration work: webhooks, automation pipelines, third-party services
-- Developer productivity tooling and engineering workflow automation
-- AI-assisted engineering, evaluation systems, and agent-driven delivery flows
+## What I work on
+- **Backend engineering** — APIs, data flows, service logic, and delivery pipelines
+- **Automation** — repeatable engineering workflows, repo operations, and task execution systems
+- **Integrations** — webhooks, third-party service connections, event delivery, and reliability tooling
+- **AI-assisted engineering** — agent-driven workflows, evaluation systems, and practical coding automation
 
-## How I work
-- I prefer clear scope, fast iteration, and evidence-based delivery.
-- I care about correctness, testability, maintainability, and practical execution.
-- I aim to turn vague requirements into clean, verifiable implementations.
+## How I operate
+- Turn vague requests into concrete implementation plans
+- Prefer small, testable, production-minded changes over noisy rewrites
+- Validate work with commands, logs, and reproducible evidence
+- Keep communication concise, technical, and delivery-focused
 
-## Selected strengths
-- API design and backend feature delivery
-- debugging and production-style issue resolution
-- observability, metrics, and validation discipline
-- GitHub-based collaboration: issues, PRs, review follow-up, and delivery handoff
+## Featured work
+### [FinMind](https://github.com/wzh886/FinMind)
+AI-assisted personal finance backend with expenses, bills, reminders, insights, and webhook delivery workflows.
+
+### [webhook-forge](https://github.com/wzh886/webhook-forge)
+Developer-first toolkit for signing, verifying, replaying, and debugging webhook deliveries.
+
+### [repo-radar](https://github.com/wzh886/repo-radar)
+Repository and task screening utility for evaluating GitHub work before investing real engineering time.
+
+## Delivery style
+I care about:
+- correctness and maintainability
+- observability and validation discipline
+- clean pull requests and explicit change summaries
+- reliable handoff for reviewers, maintainers, and clients
 
 ## Current focus
-- building reusable engineering workflows
-- shipping GitHub-based paid delivery tasks end to end
-- improving automation around coding, review, and repo operations
+- backend/API delivery
+- integration and webhook tooling
+- GitHub-based engineering workflows
+- reusable systems for paid technical task execution
 
-## Tech I work with
-`Python` `Flask` `FastAPI` `SQLAlchemy` `PostgreSQL` `GitHub Actions` `Docker` `JavaScript` `TypeScript` `Automation` `AI tooling`
+## Stack
+`Python` `Flask` `FastAPI` `SQLAlchemy` `PostgreSQL` `GitHub` `Automation` `CLI tooling` `Developer workflows` `AI tooling`
 
 ## Collaboration
-If you have a clearly scoped engineering task, integration request, backend feature, or repo issue that needs disciplined execution, feel free to reach out.
+If you have a clearly scoped backend feature, integration task, automation request, or repository issue that needs disciplined execution, I’m open to practical engineering work.
